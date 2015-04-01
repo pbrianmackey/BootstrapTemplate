@@ -1,0 +1,25 @@
+{
+  "name": "BootstrapTemplate",
+  "version": "1.0.0",
+  "description": "A template for bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pbrianmackey/BootstrapTemplate.git"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "Brian Mackey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbrianmackey/BootstrapTemplate/issues"
+  },
+  "homepage": "https://github.com/pbrianmackey/BootstrapTemplate",
+  "dependencies": {
+    "bootstrap": "^3.3.4"
+  }
+}
