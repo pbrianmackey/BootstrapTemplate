@@ -24,4 +24,3 @@ bootstrap uses a 12 column layout.  You should always use 12 columns.
 #ToDo
 
 - Stopped at 2:41.  
-- Add node.js

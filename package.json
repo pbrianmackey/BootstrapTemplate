@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/pbrianmackey/BootstrapTemplate",
   "dependencies": {
-    "bootstrap": "^3.3.4"
+    "bootstrap": "^3.3.4",
+    "express": "^4.12.3"
   }
 }
